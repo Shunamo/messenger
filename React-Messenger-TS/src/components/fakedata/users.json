@@ -1,0 +1,38 @@
+[   {
+    "id": 0,
+    "name": "김수현",
+    "profileImage": "/assets/SmallProfile.png",
+    "phoneNumber": "+82 010 3716 9600"
+  },
+    {
+      "id": 1,
+      "name": "석사랑",
+      "profileImage": "/assets/size=big.png",
+      "phoneNumber": "+82 010 8282 5353"
+    },
+    {
+      "id": 2,
+      "name": "박사랑",
+      "profileImage": "/assets/Ellipse 1.png",
+      "phoneNumber": "+82 010 1234 5678"
+    },
+    {
+      "id": 3,
+      "name": "학사랑",
+      "profileImage": "/assets/Haksarang.png",
+      "phoneNumber": "+82 010 9168 0234"
+    },
+    {
+      "id": 4,
+      "name": "면접중",
+      "profileImage": "/assets/Myeonjyeop.png",
+      "phoneNumber": "+82 010 0000 0000"
+    },
+    {
+      "id": 5,
+      "name": "취준중",
+      "profileImage": "/assets/size=big.png",
+      "phoneNumber": "+82 010 8765 4321"
+    }
+  ]
+  
